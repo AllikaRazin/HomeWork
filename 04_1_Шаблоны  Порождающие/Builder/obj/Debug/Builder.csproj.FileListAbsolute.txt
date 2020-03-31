@@ -1,0 +1,7 @@
+C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\Builder\bin\Debug\Builder.exe.config
+C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\Builder\bin\Debug\Builder.exe
+C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\Builder\bin\Debug\Builder.pdb
+C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\Builder\obj\Debug\Builder.exe
+C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\Builder\obj\Debug\Builder.pdb
