@@ -1,7 +1,0 @@
-C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\AbstractFactoryPartTwo\bin\Debug\AbstractFactoryPartTwo.exe.config
-C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\AbstractFactoryPartTwo\bin\Debug\AbstractFactoryPartTwo.exe
-C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\AbstractFactoryPartTwo\bin\Debug\AbstractFactoryPartTwo.pdb
-C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\AbstractFactoryPartTwo\obj\Debug\AbstractFactoryPartTwo.csprojAssemblyReference.cache
-C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\AbstractFactoryPartTwo\obj\Debug\AbstractFactoryPartTwo.csproj.CoreCompileInputs.cache
-C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\AbstractFactoryPartTwo\obj\Debug\AbstractFactoryPartTwo.exe
-C:\Users\Professional\Desktop\Обучение C#\HomeWorks\02.03HomeWork\AbstractFactoryPartTwo\obj\Debug\AbstractFactoryPartTwo.pdb

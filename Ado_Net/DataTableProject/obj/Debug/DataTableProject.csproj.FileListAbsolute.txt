@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\bin\Debug\DataTableProject.exe.config
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\bin\Debug\DataTableProject.exe
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\bin\Debug\DataTableProject.pdb
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\obj\Debug\DataTableProject.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\obj\Debug\DataTableProject.Form1.resources
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\obj\Debug\DataTableProject.Properties.Resources.resources
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\obj\Debug\DataTableProject.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\obj\Debug\DataTableProject.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\obj\Debug\DataTableProject.exe
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\obj\Debug\DataTableProject.pdb
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\bin\Debug\EntityFramework.dll
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\bin\Debug\EntityFramework.xml
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Professional\source\repos\ProjectDataTable\DataTableProject\obj\Debug\DataTableProject.csproj.CopyComplete

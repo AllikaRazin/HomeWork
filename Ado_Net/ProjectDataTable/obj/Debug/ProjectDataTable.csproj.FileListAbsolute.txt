@@ -1,0 +1,5 @@
+C:\Users\Professional\source\repos\ProjectDataTable\ProjectDataTable\obj\Debug\ProjectDataTable.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ProjectDataTable\ProjectDataTable\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\ProjectDataTable\ProjectDataTable\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\ProjectDataTable\ProjectDataTable\obj\Debug\ProjectDataTable_MarkupCompile.cache
+C:\Users\Professional\source\repos\ProjectDataTable\ProjectDataTable\obj\Debug\ProjectDataTable_MarkupCompile.lref
